@@ -1,0 +1,80 @@
+[
+  {
+    "id": "ACT-001",
+    "title": "Install fire extinguishers and signage",
+    "hazard": "Fire at storage point",
+    "riskId": "RA-001",
+    "priority": "High",
+    "owner": "Aarav Mehta",
+    "ownerRole": "Environmental Officer",
+    "dueDate": "25 Oct 2026",
+    "progress": 60,
+    "status": "In Progress",
+    "notes": "Procured 2x 6kg ABC powder units. Wall brackets being mounted today."
+  },
+  {
+    "id": "ACT-002",
+    "title": "Improve hazardous waste labeling and secondary containment",
+    "hazard": "Hazardous chemical leakage",
+    "riskId": "RA-002",
+    "priority": "High",
+    "owner": "Riya Sharma",
+    "ownerRole": "Lab Safety Officer",
+    "dueDate": "22 Oct 2026",
+    "progress": 30,
+    "status": "Overdue",
+    "notes": "Awaiting delivery of HDPE catch basins from vendor."
+  },
+  {
+    "id": "ACT-003",
+    "title": "Increase collection frequency & vendor SMS alert",
+    "hazard": "Missed waste collection",
+    "riskId": "RA-004",
+    "priority": "Medium",
+    "owner": "Ananya Rao",
+    "ownerRole": "Hostel Supervisor",
+    "dueDate": "30 Oct 2026",
+    "progress": 100,
+    "status": "Completed",
+    "notes": "Vendor contract updated for daily 7:00 AM pickups with supervisor checkoff."
+  },
+  {
+    "id": "ACT-004",
+    "title": "Conduct staff & student cafeteria waste segregation training",
+    "hazard": "Mixed waste contamination",
+    "riskId": "RA-003",
+    "priority": "Low",
+    "owner": "Kabir Singh",
+    "ownerRole": "Operations Associate",
+    "dueDate": "28 Oct 2026",
+    "progress": 75,
+    "status": "In Progress",
+    "notes": "Session 1 completed with 45 canteen staff. Posters affixed to all 6 drop stations."
+  },
+  {
+    "id": "ACT-005",
+    "title": "Deploy sharps puncture-proof yellow containers",
+    "hazard": "Unsafe disposal of biomedical sharps",
+    "riskId": "RA-005",
+    "priority": "High",
+    "owner": "Vikram Das",
+    "ownerRole": "Health Officer",
+    "dueDate": "26 Oct 2026",
+    "progress": 40,
+    "status": "In Progress",
+    "notes": "Initial batch of 5 certified sharps boxes delivered to clinic triage rooms."
+  },
+  {
+    "id": "ACT-006",
+    "title": "Sawdust trench percolation pit for compost yard",
+    "hazard": "Leachate leakage from organic composting yard",
+    "riskId": "RA-006",
+    "priority": "Medium",
+    "owner": "Aarav Mehta",
+    "ownerRole": "Environmental Officer",
+    "dueDate": "21 Oct 2026",
+    "progress": 100,
+    "status": "Completed",
+    "notes": "Trench dug and gravel/sawdust layered. No runoff overflow during last rain."
+  }
+]

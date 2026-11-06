@@ -1,0 +1,39 @@
+{
+  "profile": {
+    "fullName": "Aarav Mehta",
+    "email": "aarav.mehta@verdanova.in",
+    "role": "Environmental Officer",
+    "phone": "+91 98765 43210",
+    "campus": "Campus A",
+    "department": "Waste Management",
+    "accountId": "VDN-2026-001",
+    "accountStatus": "Active",
+    "accountCreated": "12 Aug 2026",
+    "lastLogin": "28 Oct 2026, 10:24 AM"
+  },
+  "preferences": {
+    "theme": "Light",
+    "language": "English",
+    "dateFormat": "DD MMM YYYY (28 Oct 2026)",
+    "timeFormat": "12-hour (10:30 AM)",
+    "defaultLocation": "Campus A",
+    "defaultDashboardView": "Overview"
+  },
+  "displayOptions": {
+    "showQuickStats": true,
+    "enableCompactView": false,
+    "showRiskHeatmap": true,
+    "showRecentActivity": true
+  },
+  "emailPreferences": {
+    "inspectionReminders": true,
+    "actionPlanDeadlineAlerts": true,
+    "weeklySummaryReport": false,
+    "systemUpdates": true
+  },
+  "locations": [
+    { "id": "loc-1", "name": "Campus A", "type": "Main Engineering & Admin Wing", "active": true },
+    { "id": "loc-2", "name": "Campus B", "type": "Hostel & Residential Quad", "active": true },
+    { "id": "loc-3", "name": "Campus C", "type": "Health Centre & Bio Lab", "active": true }
+  ]
+}

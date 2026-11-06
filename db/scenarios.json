@@ -1,0 +1,43 @@
+{
+  "activeFailureMode": "Wet organic placed in dry bin",
+  "assumedReductionPercent": 60,
+  "baseline": {
+    "auditPeriod": "10 Oct - 15 Oct 2026",
+    "location": "Cafeteria & Main Quad",
+    "totalEvents": 150,
+    "totalDefects": 42,
+    "defectRatePercent": 28.0,
+    "dpmo": 280000,
+    "targetFailureCount": 24,
+    "severityScore": 6,
+    "occurrenceScore": 8,
+    "detectionScore": 5,
+    "rpn": 240
+  },
+  "projected": {
+    "reductionFactor": 0.60,
+    "eventsRemoved": 14,
+    "projectedDefects": 28,
+    "projectedDefectRate": 18.7,
+    "projectedDPMO": 186667,
+    "projectedOccurrenceScore": 4,
+    "severityScore": 6,
+    "detectionScore": 4,
+    "projectedRPN": 96,
+    "status": "Projection Only"
+  },
+  "observedFollowUp": {
+    "auditPeriod": "22 Oct - 26 Oct 2026",
+    "location": "Cafeteria & Main Quad",
+    "totalEvents": 160,
+    "totalDefects": 29,
+    "defectRatePercent": 18.1,
+    "dpmo": 181250,
+    "targetFailureCount": 11,
+    "severityScore": 6,
+    "occurrenceScore": 4,
+    "detectionScore": 4,
+    "observedRPN": 96,
+    "status": "Observed Ground Truth"
+  }
+}

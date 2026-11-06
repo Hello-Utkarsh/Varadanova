@@ -1,0 +1,80 @@
+[
+  {
+    "id": "INSP-001",
+    "type": "General Waste Management",
+    "location": "Main Campus",
+    "date": "24 Oct 2026",
+    "dueDate": "24 Oct 2026",
+    "inspector": "Aarav Mehta",
+    "status": "Completed",
+    "keyFindings": "No major issues. Bins properly segregated according to 4-stream guidelines.",
+    "defectCount": 2,
+    "eventCount": 65,
+    "score": 96
+  },
+  {
+    "id": "INSP-002",
+    "type": "Hazardous Waste",
+    "location": "Lab Block",
+    "date": "22 Oct 2026",
+    "dueDate": "25 Oct 2026",
+    "inspector": "Riya Sharma",
+    "status": "In Progress",
+    "keyFindings": "Improper chemical storage in Lab 3. Secondary spill tray missing under solvent bottles.",
+    "defectCount": 9,
+    "eventCount": 42,
+    "score": 78
+  },
+  {
+    "id": "INSP-003",
+    "type": "E-waste",
+    "location": "Admin Block",
+    "date": "20 Oct 2026",
+    "dueDate": "20 Oct 2026",
+    "inspector": "Kabir Singh",
+    "status": "Overdue",
+    "keyFindings": "E-waste stored without proper labeling in basement corridor. CRT monitor cracked.",
+    "defectCount": 8,
+    "eventCount": 25,
+    "score": 68
+  },
+  {
+    "id": "INSP-004",
+    "type": "General Waste Management",
+    "location": "Hostel Block",
+    "date": "18 Oct 2026",
+    "dueDate": "22 Oct 2026",
+    "inspector": "Ananya Rao",
+    "status": "Completed",
+    "keyFindings": "Good compliance overall. Minor signage needed near 2nd floor pantry bins.",
+    "defectCount": 4,
+    "eventCount": 58,
+    "score": 93
+  },
+  {
+    "id": "INSP-005",
+    "type": "Biomedical Waste",
+    "location": "Health Centre",
+    "date": "16 Oct 2026",
+    "dueDate": "19 Oct 2026",
+    "inspector": "Vikram Das",
+    "status": "In Progress",
+    "keyFindings": "Sharps disposal container almost full (85% fill level). Replacement requested.",
+    "defectCount": 3,
+    "eventCount": 30,
+    "score": 90
+  },
+  {
+    "id": "INSP-006",
+    "type": "Recycling & Segregation",
+    "location": "Cafeteria",
+    "date": "14 Oct 2026",
+    "dueDate": "15 Oct 2026",
+    "inspector": "Neha Kapoor",
+    "status": "Overdue",
+    "keyFindings": "Mixing of wet food scraps and dry beverage cartons observed at tray drop station.",
+    "defectCount": 16,
+    "eventCount": 60,
+    "score": 73
+  }
+]
